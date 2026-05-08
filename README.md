@@ -1,4 +1,4 @@
-# Time-Based User Enumeration PoC
+# Time-Based User Enumeration PoC #
 
 This script is a Proof of Concept (PoC) designed for CTF challenges to demonstrate **Time-Based Side-Channel Attacks** on login endpoints. 
 
